@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="right">
+  <strong>Polski</strong> | <a href="./README.en.md">English</a>
+</div>
 
-<!--
-**laura-szczerbowska/laura-szczerbowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Laura Szczerbowska
 
-Here are some ideas to get you started:
+**Data Science Student | BI & Data Analyst**  
+Zajmuję się analityką danych, modelowaniem bazodanowym oraz Business Intelligence. Koncentruję się na przekładaniu danych operacyjnych i sprzedażowych na czytelne raporty oraz wnioski biznesowe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technologie i Narzędzia
+
+* **Business Intelligence:** Power BI (DAX, Power Query, modelowanie danych)
+* **Bazy danych:** SQL / PostgreSQL (widoki, CTE, funkcje okna, agregacje)
+* **Programowanie i Analiza:** Python (Pandas, NumPy, wizualizacja danych)
+* **Inne narzędzia pracy:** Azure Data Studio, MS Excel
+
+---
