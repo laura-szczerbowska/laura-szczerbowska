@@ -5,6 +5,7 @@
 # Laura Szczerbowska
 
 **Data Science Student | BI & Data Analyst**  
+
 Zajmuję się analityką danych, modelowaniem bazodanowym oraz Business Intelligence. Koncentruję się na przekładaniu danych operacyjnych i sprzedażowych na czytelne raporty oraz wnioski biznesowe.
 
 ---
