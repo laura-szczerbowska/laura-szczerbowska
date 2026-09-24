@@ -1,5 +1,5 @@
 <div align="right">
-  <strong>Polski</strong> | <a href="./README.md">English</a>
+  <strong>Polski</strong> | <a href="./README.en.md">English</a>
 </div>
 
 # Laura Szczerbowska
