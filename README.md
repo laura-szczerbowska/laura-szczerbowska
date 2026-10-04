@@ -29,9 +29,9 @@ Zajmuję się analityką danych, modelowaniem bazodanowym oraz Business Intellig
   * **Key Highlights:** Built a decision-making matrix (Traffic vs. CR), SKU-level micro-funnel tooltips, and automated strategic recommendations for paid ad budget optimization.
 
 * **[B2B Sales Retention & Cohort Analysis](https://github.com/laura-szczerbowska/b2b-sales-retention-sql)**  
-  *ERP B2B sales retention and QoQ revenue dynamics analysis on synthetic transactional datasets.*  
-  * **Tech Stack:** PostgreSQL (Advanced CTEs, Window Functions, Retention Cohorts)  
-  * **Key Highlights:** Evaluated client churn, repurchasing cadences, and quarter-over-quarter revenue progression using complex relational aggregations.
+  *End-to-end B2B revenue tracking and account health analytics linking an ERP PostgreSQL database to an executive Power BI dashboard.*  
+  * **Tech Stack:** PostgreSQL (Advanced CTEs, `DATE_TRUNC`, `LAG()` Window Functions), Power BI Desktop (Interactive Matrix, Conditional Alerts)  
+  * **Key Highlights:** Implemented a *Database-First* architecture to compute QoQ revenue momentum and early churn risk flags (`Decline`, `Growth or Stable`), identifying critical account contractions (-83% YoY) and automated executive alert KPIs.
 
 ---
 
