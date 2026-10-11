@@ -25,17 +25,17 @@ Focused on data analytics, relational database modeling and Business Intelligenc
 
 * **[E-Commerce GA4 Performance Analytics](https://github.com/laura-szczerbowska/ecommerce-ga4-performance-analytics)**  
   *End-to-end e-commerce pipeline evaluating product performance, marketing attribution, and conversion funnels.*  
-  * **Tech Stack:** Python (Pandas ETL), SQL (PostgreSQL), Power BI (DAX, Star Schema, Custom Tooltips)  
+  * **Tech Stack:** Python ((Data Preprocessing with Pandas)), SQL (PostgreSQL), Power BI (DAX, Star Schema, Custom Tooltips)  
   * **Key Highlights:** Built a decision-making matrix (Traffic vs. CR), SKU-level micro-funnel tooltips, and automated strategic recommendations for paid ad budget optimization.
 
 * **[E-Commerce Traffic ROI & Attribution](https://github.com/laura-szczerbowska/ecommerce-traffic-roi-and-attribution)**  
   *End-to-end e-commerce marketing analytics engine evaluating multi-channel attribution models, paid campaign profitability, and checkout conversion barriers.*  
-  * **Tech Stack:** Python (Pandas, NumPy, Plotly), GA4 Logs Preprocessing, Cohort Analysis, HTML5/CSS3 Dashboard  
+  * **Tech Stack:** Python (Pandas, NumPy, Plotly), GA4 Logs Preprocessing, Cohort Analysis, HTML Dashboard  
   * **Key Highlights:** Modeled First vs. Last-Touch discrepancies, diagnosed severe checkout drop-offs (76.5%), analyzed purchase latency cohorts (Day 0 vs. 7-day consideration), and built an automated executive HTML dashboard with data-driven budget reallocation recommendations.
     
 * **[B2B Sales Retention & Cohort Analysis](https://github.com/laura-szczerbowska/b2b-sales-retention-sql)**  
   *End-to-end B2B revenue tracking and account health analytics linking an ERP PostgreSQL database to an executive Power BI dashboard.*  
-  * **Tech Stack:** PostgreSQL (Advanced CTEs, `DATE_TRUNC`, `LAG()` Window Functions), Power BI Desktop (Interactive Matrix, Conditional Alerts)  
+  * **Tech Stack:** PostgreSQL (CTEs, `DATE_TRUNC`, `LAG()` Window Functions), Power BI Desktop (Interactive Matrix, Conditional Alerts)  
   * **Key Highlights:** Implemented a *Database-First* architecture to compute QoQ revenue momentum and early churn risk flags (`Decline`, `Growth or Stable`), identifying critical account contractions (-83% YoY) and automated executive alert KPIs.
 
 ---
@@ -50,4 +50,4 @@ Focused on data analytics, relational database modeling and Business Intelligenc
 * **[Running Form Analytics](https://github.com/laura-szczerbowska/running-form-analytics)**  
   *AI-powered computer vision and sensor fusion pipeline for automated biomechanical gait evaluation.*  
   * **Tech Stack:** Python, MediaPipe Pose, Garmin `.FIT` SDK, Computer Vision. 
-  * **Key Highlights:** Fused spatial video keypoints with wearable sensor telemetry to identify gait imbalances and support injury prevention protocols.
+  * **Key Highlights:** Fused spatial video keypoints with wearable sensor telemetry to assess running and movement form correctness, detect gait imbalances, and support injury prevention protocols.
