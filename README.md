@@ -19,36 +19,36 @@ Zajmuję się analityką danych, modelowaniem bazodanowym oraz Business Intellig
 
 ---
 
-### Featured Projects
+### Wybrane Projekty
 
-### Business Intelligence & Analytics
+### Business Intelligence i Analityka Danych
 
-* **[E-Commerce GA4 Performance Analytics](https://github.com/laura-szczerbowska/ecommerce-ga4-performance-analytics)**  
-  *End-to-end e-commerce pipeline evaluating product performance, marketing attribution, and conversion funnels.*  
-  * **Tech Stack:** Python (Pandas ETL), SQL (PostgreSQL), Power BI (DAX, Star Schema, Custom Tooltips)  
-  * **Key Highlights:** Built a decision-making matrix (Traffic vs. CR), SKU-level micro-funnel tooltips, and automated strategic recommendations for paid ad budget optimization.
+- **[E-Commerce Traffic ROI & Attribution](https://github.com/laura-szczerbowska/ecommerce-traffic-roi-and-attribution)**  
+  *Kompleksowy silnik analityki marketingowej e-commerce badający modele atrybucji wielokanałowej, rentowność płatnych kampanii oraz bariery konwersji na etapie kasy.*  
+  * **Stack technologiczny:** Python (Pandas, NumPy, Plotly), czyszczenie logów GA4, analiza kohortowa, dashboard HTML5/CSS3  
+  * **Kluczowe osiągnięcia:** Wykrycie rozbieżności między modelami First- i Last-Touch, diagnoza krytycznego porzucania kasy (76,5%), analiza kohortowa latencji zakupu (Day 0 vs 7-dniowe okno decyzyjne) oraz budowa automatycznego dashboardu HTML z rekomendacjami optymalizacji budżetów reklamowych.
 
-* **[E-Commerce Traffic ROI & Attribution](https://github.com/laura-szczerbowska/ecommerce-traffic-roi-and-attribution)**  
-  *End-to-end e-commerce marketing analytics engine evaluating multi-channel attribution models, paid campaign profitability, and checkout conversion barriers.*  
-  * **Tech Stack:** Python (Pandas, NumPy, Plotly), GA4 Logs Preprocessing, Cohort Analysis, HTML5/CSS3 Dashboard  
-  * **Key Highlights:** Modeled First vs. Last-Touch discrepancies, diagnosed severe checkout drop-offs (76.5%), analyzed purchase latency cohorts (Day 0 vs. 7-day consideration), and built an automated executive HTML dashboard with data-driven budget reallocation recommendations.
-    
-* **[B2B Sales Retention & Cohort Analysis](https://github.com/laura-szczerbowska/b2b-sales-retention-sql)**  
-  *End-to-end B2B revenue tracking and account health analytics linking an ERP PostgreSQL database to an executive Power BI dashboard.*  
-  * **Tech Stack:** PostgreSQL (Advanced CTEs, `DATE_TRUNC`, `LAG()` Window Functions), Power BI Desktop (Interactive Matrix, Conditional Alerts)  
-  * **Key Highlights:** Implemented a *Database-First* architecture to compute QoQ revenue momentum and early churn risk flags (`Decline`, `Growth or Stable`), identifying critical account contractions (-83% YoY) and automated executive alert KPIs.
+- **[E-Commerce GA4 Performance Analytics](https://github.com/laura-szczerbowska/ecommerce-ga4-performance-analytics)**  
+  *Kompleksowy potok analityczny e-commerce badający efektywność produktów, atrybucję marketingową i lejki konwersji.*  
+  * **Stack technologiczny:** Python (ETL w Pandas), SQL (PostgreSQL), Power BI (DAX, model gwiazdy, niestandardowe podpowiedzi Tooltips)  
+  * **Kluczowe osiągnięcia:** Budowa matrycy decyzyjnej (Ruch vs Współczynnik Konwersji), mikro-lejków na poziomie SKU w tooltips oraz zautomatyzowane rekomendacje strategiczne optymalizacji budżetów płatnych kampanii.
+
+- **[B2B Sales Retention & Cohort Analysis](https://github.com/laura-szczerbowska/b2b-sales-retention-sql)**  
+  *Kompleksowa analityka przychodów B2B i kondycji kont klientów, łącząca bazę danych ERP w PostgreSQL z zarządczym dashboardem Power BI.*  
+  * **Stack technologiczny:** PostgreSQL (zaawansowane CTE, `DATE_TRUNC`, funkcje okna `LAG()`), Power BI Desktop (interaktywna macierz, alerty warunkowe)  
+  * **Kluczowe osiągnięcia:** Wdrożenie architektury *Database-First* do wyliczania dynamiki przychodów QoQ i wczesnych flag ryzyka odejścia klientów (`Decline`, `Growth or Stable`), identyfikacja krytycznych spadków kontraktów (-83% YoY) oraz automatyczne alerty KPI dla zarządu.
 
 ---
 
-### Machine Learning & Applied Data Science
+### Machine Learning i Stosowane Data Science
 
-* **[FitForm Predictive Analytics](https://github.com/laura-szczerbowska/fitform-predictive-analytics)**  
-  *End-to-end predictive modeling & ML benchmark for weight dynamics.*  
-  * **Tech Stack:** Python, Scikit-learn, Feature Engineering, SHAP, Permutation Feature Importance (PFI).  
-  * **Key Highlights:** Benchmarked 10 machine learning architectures and applied model interpretability techniques (SHAP/PFI) to audit feature influence and explain model decisions.
+- **[FitForm Predictive Analytics](https://github.com/laura-szczerbowska/fitform-predictive-analytics)**  
+  *Kompleksowe modelowanie predykcyjne i benchmark modeli uczenia maszynowego w dynamice masy ciała.*  
+  * **Stack technologiczny:** Python, Scikit-learn, inżynieria cech, SHAP, Permutation Feature Importance (PFI).  
+  * **Kluczowe osiągnięcia:** Porównanie 10 architektur uczenia maszynowego oraz zastosowanie technik interpretowalności modeli (SHAP/PFI) do audytu wpływu cech i wyjaśniania decyzji algorytmu.
 
-* **[Running Form Analytics](https://github.com/laura-szczerbowska/running-form-analytics)**  
-  *AI-powered computer vision and sensor fusion pipeline for automated biomechanical gait evaluation.*  
-  * **Tech Stack:** Python, MediaPipe Pose, Garmin `.FIT` SDK, Computer Vision. 
-  * **Key Highlights:** Fused spatial video keypoints with wearable sensor telemetry to identify gait imbalances and support injury prevention protocols.
+- **[Running Form Analytics](https://github.com/laura-szczerbowska/running-form-analytics)**  
+  *Potok wizji komputerowej opartej na AI oraz fuzji danych telemetrycznych do automatycznej biomechanicznej oceny techniki biegu.*  
+  * **Stack technologiczny:** Python, MediaPipe Pose, Garmin `.FIT` SDK, Computer Vision.  
+  * **Kluczowe osiągnięcia:** Połączenie punktów orientacyjnych z nagrań wideo z danymi z urządzeń noszonych (wearables) w celu identyfikacji asymetrii kroku i wsparcia protokołów prewencji kontuzji.
 
