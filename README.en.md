@@ -38,6 +38,8 @@ Focused on data analytics, relational database modeling and Business Intelligenc
   * **Tech Stack:** PostgreSQL (CTEs, `DATE_TRUNC`, `LAG()` Window Functions), Power BI Desktop (Interactive Matrix, Conditional Alerts)  
   * **Key Highlights:** Implemented a *Database-First* architecture to compute QoQ revenue momentum and early churn risk flags (`Decline`, `Growth or Stable`), identifying critical account contractions (-83% YoY) and automated executive alert KPIs.
 
+
+<br>
 ---
 
 ### Machine Learning & Applied Data Science
